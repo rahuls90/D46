@@ -6,6 +6,6 @@ Data transformation using Power Query
 
 # Steps Done
 
-Removed Duplicates
-Removed Blank Rows
-Made First Row as Headers
+1. Removed Duplicates
+2. Removed Blank Rows
+3. Made First Row as Headers
